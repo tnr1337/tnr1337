@@ -12,7 +12,6 @@
 ![GenAI](https://img.shields.io/badge/GenAI-blue?style=for-the-badge)
 ![DataScience](https://img.shields.io/badge/DataScience-yellow?style=for-the-badge)
 ![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-purple?style=for-the-badge)
 ![Fintech](https://img.shields.io/badge/Fintech-black?style=for-the-badge)
 
 ## 📬 Contact Me
