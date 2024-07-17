@@ -15,4 +15,4 @@
 ![Fintech](https://img.shields.io/badge/Fintech-black?style=for-the-badge)
 
 ## 📬 Contact Me
-For any inquiries, please email me at: [GMAIL](omertnr1337@gmail.com)
+For any inquiries, please email me at:[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](omertnr1337@gmail.com)
