@@ -3,7 +3,7 @@
 ## Let's Connect!
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@tnr1337/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omertanir/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-navyblue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/mertanr)
+[![Kaggle](https://img.shields.io/badge/Kaggle-cyan?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/mertanr)
 [![Kaggle](https://img.shields.io/badge/Huggingface-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/tnr1337)
 
 
